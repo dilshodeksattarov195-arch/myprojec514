@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "databasevonnect",
+        "uuid": 1302990,
+        "checksum": "vq8g4p"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "production"
+    }
+}
